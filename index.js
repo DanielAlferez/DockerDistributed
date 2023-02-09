@@ -3,7 +3,7 @@ const { Client } = require('pg')
 
 const connectionData = {
     user: 'daniel',
-    host: 'localhost',
+    host: '10.0.2.15',
     database: 'dist',
     password: '7447',
     port: 5432
